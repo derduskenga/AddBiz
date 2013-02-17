@@ -39,12 +39,12 @@ public final class R {
         public static final int btnLogin=0x7f08001e;
         public static final int btnRegisterBizLocation=0x7f080034;
         public static final int btnSearchPlaces=0x7f080010;
-        public static final int btn_about=0x7f08003b;
-        public static final int btn_add_biz=0x7f080038;
-        public static final int btn_add_places=0x7f080037;
-        public static final int btn_cover=0x7f08003c;
-        public static final int btn_search_biz=0x7f08003a;
-        public static final int btn_search_places=0x7f080039;
+        public static final int btn_about=0x7f08003c;
+        public static final int btn_add_biz=0x7f080039;
+        public static final int btn_add_places=0x7f080038;
+        public static final int btn_cover=0x7f08003d;
+        public static final int btn_search_biz=0x7f08003b;
+        public static final int btn_search_places=0x7f08003a;
         public static final int btn_show_map=0x7f08002a;
         public static final int email=0x7f08001c;
         public static final int formatted_address=0x7f08002e;
@@ -52,7 +52,7 @@ public final class R {
         public static final int help_options_list_text=0x7f08001b;
         public static final int home_root=0x7f080000;
         public static final int imgBtnCalender=0x7f080029;
-        public static final int lat=0x7f08003e;
+        public static final int lat=0x7f08003f;
         public static final int lblAlreadyHaveAccount=0x7f080014;
         public static final int lblBizDescritpion=0x7f080035;
         public static final int lblBusinessName=0x7f080002;
@@ -73,10 +73,11 @@ public final class R {
         public static final int lblShowRemainingSize=0x7f080036;
         public static final int lblTypeOfAddition=0x7f080023;
         public static final int list=0x7f080032;
-        public static final int lng=0x7f08003f;
-        public static final int menu_settings=0x7f080040;
+        public static final int lng=0x7f080040;
+        public static final int menu_settings=0x7f080041;
         public static final int name=0x7f08002b;
-        public static final int reference=0x7f08003d;
+        public static final int reference=0x7f08003e;
+        public static final int searchBizList=0x7f080037;
         public static final int spnSelectProduct=0x7f080020;
         public static final int spnTypeOfAddition=0x7f080022;
         public static final int txtBizDescription=0x7f080033;
@@ -112,9 +113,10 @@ public final class R {
         public static final int activity_place_details=0x7f03000c;
         public static final int activity_places_list=0x7f03000d;
         public static final int activity_register_biz_data=0x7f03000e;
-        public static final int footer_layout=0x7f03000f;
-        public static final int fragment_layout=0x7f030010;
-        public static final int list_item=0x7f030011;
+        public static final int activity_search_biz=0x7f03000f;
+        public static final int footer_layout=0x7f030010;
+        public static final int fragment_layout=0x7f030011;
+        public static final int list_item=0x7f030012;
     }
     public static final class menu {
         public static final int activity_add_biz_dashboard=0x7f070000;
@@ -132,6 +134,7 @@ public final class R {
         public static final int activity_place_details=0x7f07000c;
         public static final int activity_places_list=0x7f07000d;
         public static final int activity_register_biz_data=0x7f07000e;
+        public static final int activity_search_biz=0x7f07000f;
     }
     public static final class string {
         public static final int Add_Bisiness_Location=0x7f040013;
@@ -172,6 +175,7 @@ public final class R {
         public static final int title_activity_place_details=0x7f040017;
         public static final int title_activity_places_list=0x7f040016;
         public static final int title_activity_register_biz_data=0x7f04000f;
+        public static final int title_activity_search_biz=0x7f040027;
         public static final int you_have_set_account=0x7f040022;
     }
     public static final class style {

@@ -56,6 +56,7 @@ public class PlacesList extends Activity {
 
 		ListAdapter adapter = new SimpleAdapter(PlacesList.this,
 				placesListItems, R.layout.list_item,
+				
 				new String[] { "reference", "lat", "lng", "types", "vicinity",
 						"name" }, new int[] { R.id.reference, R.id.lat,
 						R.id.lng, R.id.type, R.id.vicinity, R.id.name });

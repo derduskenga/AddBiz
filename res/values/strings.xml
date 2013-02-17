@@ -43,4 +43,6 @@
 
     <color name="errorColor">#d81417</color>
 
+    <string name="title_activity_search_biz">SearchBiz</string>
+
 </resources>

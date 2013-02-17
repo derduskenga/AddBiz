@@ -7,6 +7,7 @@ public class Utilities {
 	public static final String url_registerBiz_to_addProduct = "http://10.0.2.2/addBizBackend/addProduct.php";
 	public static final String url_registerBiz_to_populateSelectProduct = "http://10.0.2.2/addBizBackend/populateSelectProduct.php";
 	public static final String url_addPromo = "http://10.0.2.2/addBizBackend/addPromo.php";
+	public static final String url_searchBiz = "http://10.0.2.2/addBizBackend/searchBiz.php";
 	
 	public static final String REGISTRATION_ID_PREFERENCE = "MyRegId";
 	public static final String PLACE_ADD_URL = "https://maps.googleapis.com/maps/api/place/add/json?";
@@ -16,6 +17,7 @@ public class Utilities {
 	
 	public static final String LANG = "en";
 	public static final String AROUND_ME_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?";
+	
 	public String [] supporeted_types = {"accounting","airport","amusement_park","aquarium","art_gallery","atm",
 	"bakery","bank","bar",
 		    "beauty_salon",
